@@ -6,7 +6,7 @@ echo " "
 
 echo "****************** Installing XFCE4 environment ******************"
 apt-get install kali-defaults kali-root-login desktop-base xfce4 xfce4-places-plugin xfce4-goodies
-apt-get install lightdm
+apt-get install lightdm -y
 dpkg-reconfigure lightdm
 echo " "
 echo "*** Done ***"
