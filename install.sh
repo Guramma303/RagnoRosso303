@@ -97,4 +97,3 @@ echo " "
 
 echo "************************ End script... shutdown now ************************"
 echo " "
-sudo shutdown now
