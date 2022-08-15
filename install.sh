@@ -72,7 +72,7 @@ echo "*** Done ***"
 echo " "
 
 echo "****************** Installing hcxtools ******************"
-apt-get install hcxtools
+apt-get install hcxtools -y
 echo " "
 echo "*** Done ***"
 echo " "
