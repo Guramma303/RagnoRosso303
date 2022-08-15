@@ -43,7 +43,7 @@ echo "*** Done ***"
 echo " "
 
 echo "****************** Installing Mosh(sshd_config) ******************"
-apt-get install mosh
+apt-get install mosh -y
 echo " "
 echo "*** Done ***"
 echo " "
