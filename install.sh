@@ -33,6 +33,7 @@ cp interfaces /etc/network/interfaces
 echo " "
 echo "*** Done ***"
 echo " "
+shutdown now
 
 echo "****************** Setting up file 'wpa_supplicant.conf' ******************"
 echo " "
