@@ -98,4 +98,3 @@ echo " "
 
 echo "************************ End script... shutdown now ************************"
 echo " "
-shutdown now
