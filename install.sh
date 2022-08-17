@@ -33,7 +33,6 @@ cp interfaces /etc/network/interfaces
 echo " "
 echo "*** Done ***"
 echo " "
-shutdown now
 
 echo "****************** Setting up file 'wpa_supplicant.conf' ******************"
 echo " "
@@ -58,7 +57,6 @@ cp sshd_config /etc/ssh/sshd_config
 echo " "
 echo "*** Done ***"
 echo " "
-
 
 echo "****************** Installing Wifite ******************"
 apt-get install wifite
